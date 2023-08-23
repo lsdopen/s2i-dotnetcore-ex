@@ -1,5 +1,7 @@
 = .NET Core Sample App for OpenShift
 
+Mac was here
+
 This repository contains a simple MVC .NET Core application that can be deployed on OpenShift.
 
 The example is meant to be built and run with the https://github.com/redhat-developer/s2i-dotnetcore[s2i-dotnetcore] builder
